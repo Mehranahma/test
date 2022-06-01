@@ -1,1 +1,3 @@
-Hello here you can learn how to clone 
+Hello here you can learn
+
+something new about git and how to clone git repository
